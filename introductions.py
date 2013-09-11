@@ -9,6 +9,9 @@ def introduceDavid():
 def introducePier():
 	print "Hi! I am Pierpressure."
 
+def introduceShim():
+	print "Hi! I am Shimmy."
+
 def main():
 	introduceRoyce()
 	introduceDavid()
