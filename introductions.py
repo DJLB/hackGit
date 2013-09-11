@@ -1,3 +1,5 @@
+
+
 def introduceRoyce():
 	print "Hi! I'm Royce."
 
@@ -7,5 +9,11 @@ def introduceDavid():
 def introducePier():
 	print "Hi! I am Pierpressure."
 
+def main():
+	introduceRoyce()
+	introduceDavid()
+	introducePier()
 
+if __name__ == "__main__":
+	main()     
 
