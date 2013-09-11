@@ -3,3 +3,5 @@ def introduce():
 
 def introduceDavid():
 	print "Hi! I'm David."
+def introducePier():
+	print "Hi! I am Pierpressure."
