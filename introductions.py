@@ -16,7 +16,8 @@ def main():
 	introduceRoyce()
 	introduceDavid()
 	introducePier()
-
+	introduceShim()
+	
 if __name__ == "__main__":
 	main()     
 
